@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patient_list>
+  <Patient id="1">
+    <nom>Zale2</nom>
+    <prenom>Ndiaye</prenom>
+    <age>19</age>
+    <occupation>Architecte</occupation>
+    <telephone>0022177937645</telephone>
+    <date>12/10/2019</date>
+  </Patient>
+</patient_list>
